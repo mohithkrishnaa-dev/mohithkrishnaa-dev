@@ -41,7 +41,8 @@ Focus: Software Development, Database Systems, Web Technologies,
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRMKOFC&show_icons=true&theme=default&hide_border=true)
 
 </div>
-<div>![Profile views](https://komarev.com/ghpvc/?username=kaifcodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=kaifcodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
 
 ---
 
