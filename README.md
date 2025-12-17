@@ -71,7 +71,5 @@ FastAPI • MongoDB • Redis • Docker •Python • Network Intercepting
 
 *"The only way to do great work is to love what you do."* – Steve Jobs
 
-**Profile Views:** 1,381+  
-**Last Updated:** November 2024
 
 </div>
