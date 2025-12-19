@@ -13,7 +13,7 @@
 
 ### **B.Tech in Computer Science (Data Science Engineering)**
 **CMR Engineering College, Hyderabad**  
-*2025 - 2028 *  
+*2025 - 2028*  
 Specialization: Machine Learning, Big Data Analytics, Artificial Intelligence
 
 ### **Diploma in Computer Science Engineering**
@@ -38,11 +38,11 @@ Focus: Software Development, Database Systems, Web Technologies,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRMKOFC&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithkrishnaa-dev&show_icons=true&theme=default&hide_border=true)
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=kaifcodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
+![Profile views](https://komarev.com/ghpvc/?username=mohithkrishnaa-dev&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
 
 ---
 
@@ -50,11 +50,11 @@ Focus: Software Development, Database Systems, Web Technologies,
 
 ### **🔒 Image steganography**  
 *Advanced steganography application for secure communication*  
-Python • OpenCV • Cryptography • GUI • JavaScript •Html,css.
+Python • OpenCV • Cryptography • GUI • JavaScript • Html,css.
 
 ### **🎮 Games API**  
 *Scalable backend for gaming platforms*  
-FastAPI • MongoDB • Redis • Docker •Python • Network Intercepting 
+FastAPI • MongoDB • Redis • Docker • Python •   Network Intercepting 
 
 
 ---
@@ -63,7 +63,7 @@ FastAPI • MongoDB • Redis • Docker •Python • Network Intercepting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:puttamohithkrishnaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MRMKOFC)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/mohithkrishnaa-dev)
 
 ---
 
